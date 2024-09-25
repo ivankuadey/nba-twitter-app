@@ -1,38 +1,41 @@
+@font-face {
+  font-family: 'Sporting';
+  src: url('./SportingOutline-x3e85.ttf') format('truetype');
+}
+
 .App {
   text-align: center;
+  width: 100%;
+  margin: auto;
+  overflow: hidden;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+#btn {
+  border-color: black;
+  border-width: 1px;
+  background-color: rgb(29, 66, 138);
+  margin: 5px 5px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+h1 {
+  font-family: 'Sporting';
+  font-size: 60px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.not-found h2{
+  font-family: 'Sporting';
+  font-size: 50px;
 }
 
-.App-link {
-  color: #61dafb;
+.not-found p {
+  font-size: 40px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.not-found Link {
+  font-size: 80px;
+}
+
+.not-found {
+  text-align: center;
+  margin-top: 100px;
 }

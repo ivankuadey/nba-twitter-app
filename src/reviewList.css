@@ -1,0 +1,25 @@
+.review {
+    height: max-content;
+    width: 1000px;
+    max-height: max-content;
+    max-width: 1000px;
+    display: table-cell;
+    table-layout: fixed;
+}
+
+.review-list {
+    overflow: scroll;
+    border-spacing: 20px;
+}
+
+.neutral-info {
+    border: solid 1px;
+}
+
+.negative-info {
+    border: solid red 1px;
+}
+
+.positive-info {
+    border: solid rgb(62, 255, 62) 1px;
+}

@@ -1,0 +1,904 @@
+{
+    "nbaTeams": [
+        {
+            "teamName": "Atlanta Hawks",
+            "sentiments": {
+                "positive": 7,
+                "negative": 14,
+                "neutral": 437
+            },
+            "freqWords": {
+                "pick": 89,
+                "draft": 84,
+                "1": 63,
+                "trae": 55,
+                "young": 55
+            },
+            "mentionedPlayers": {
+                "Trae Young": 37,
+                "Jalen Johnson": 10,
+                "Zaccharie Risacher": 9
+            },
+            "topTweet": {
+                "Tweet Id": "1826309246172217389",
+                "Twitter User": "Atlanta Hawks",
+                "Tweet Content": "No JJ? https://twitter.com/ATLHawks/status/1826309246172217389",
+                "Like Count": 7134,
+                "Retweet Count": 236,
+                "Replied Tweet": null,
+                "Quoted Tweet": "Let's keep the #NBA2KTop100 going with 20 more players \ud83d\udd25 https://twitter.com/NBA2K/status/1825895586282783150"
+            },
+            "id": 0
+        },
+        {
+            "teamName": "Boston Celtics",
+            "sentiments": {
+                "positive": 14,
+                "negative": 44,
+                "neutral": 501
+            },
+            "freqWords": {
+                "tatum": 71,
+                "win": 70,
+                "finals": 69,
+                "miami": 46,
+                "fans": 45
+            },
+            "mentionedPlayers": {
+                "Jayson Tatum": 18,
+                "Jaylen Brown": 13,
+                "Kristaps Porzingis": 9
+            },
+            "topTweet": {
+                "Tweet Id": "1802901572357075175",
+                "Twitter User": "Boston Celtics",
+                "Tweet Content": "2024 WORLD CHAMPIONS \ud83c\udfc6 https://t.co/31HoRn2LOd",
+                "Like Count": 131268,
+                "Retweet Count": 37661,
+                "Replied Tweet": null,
+                "Quoted Tweet": null
+            },
+            "id": 1
+        },
+        {
+            "teamName": "Brooklyn Nets",
+            "sentiments": {
+                "positive": 8,
+                "negative": 19,
+                "neutral": 322
+            },
+            "freqWords": {
+                "trade": 58,
+                "season": 42,
+                "mikal": 42,
+                "pick": 41,
+                "kyrie": 41
+            },
+            "mentionedPlayers": {
+                "Ben Simmons": 31,
+                "Cam Thomas": 13,
+                "Nic Claxton": 11
+            },
+            "topTweet": {
+                "Tweet Id": "1788758858602520757",
+                "Twitter User": "Thomas Carrieri",
+                "Tweet Content": "\u201cYou WILL NOT let your favorite professional sports teams control your mental health.\u201d https://t.co/3B753C8jqM",
+                "Like Count": 85587,
+                "Retweet Count": 10812,
+                "Replied Tweet": null,
+                "Quoted Tweet": null
+            },
+            "id": 2
+        },
+        {
+            "teamName": "Charlotte Hornets",
+            "sentiments": {
+                "positive": 12,
+                "negative": 15,
+                "neutral": 509
+            },
+            "freqWords": {
+                "coach": 62,
+                "head": 56,
+                "pick": 47,
+                "draft": 45,
+                "lee": 42
+            },
+            "mentionedPlayers": {
+                "Brandon Miller": 29,
+                "LaMelo Ball": 23,
+                "Grant Williams": 15
+            },
+            "topTweet": {
+                "Tweet Id": "1636512403163578368",
+                "Twitter User": "SAY CHEESE! \ud83d\udc44\ud83e\uddc0",
+                "Tweet Content": "Michael Jordan is about to sell the Charlotte Hornets franchise \n\nHe paid $180 million for the team in 2010, the franchise is now worth $1.77 billion. https://t.co/ACLV8sctzl",
+                "Like Count": 102802,
+                "Retweet Count": 7816,
+                "Replied Tweet": null,
+                "Quoted Tweet": null
+            },
+            "id": 3
+        },
+        {
+            "teamName": "Chicago Bulls",
+            "sentiments": {
+                "positive": 6,
+                "negative": 9,
+                "neutral": 418
+            },
+            "freqWords": {
+                "jordan": 95,
+                "michael": 75,
+                "pick": 34,
+                "draft": 33,
+                "trade": 32
+            },
+            "mentionedPlayers": {
+                "Lonzo Ball": 12,
+                "Zach LaVine": 10,
+                "Coby White": 8
+            },
+            "topTweet": {
+                "Tweet Id": "1767888371890753588",
+                "Twitter User": "non aesthetic things",
+                "Tweet Content": "A Chicago Bulls fan made this shot for a million dollars but the insurance company refused to pay him after finding out he played college basketball https://t.co/jhKOig36kX",
+                "Like Count": 155243,
+                "Retweet Count": 8476,
+                "Replied Tweet": null,
+                "Quoted Tweet": null
+            },
+            "id": 4
+        },
+        {
+            "teamName": "Cleveland Cavaliers",
+            "sentiments": {
+                "positive": 0,
+                "negative": 3,
+                "neutral": 273
+            },
+            "freqWords": {
+                "cavs": 486,
+                "magic": 107,
+                "orlando": 102,
+                "lebron": 72,
+                "series": 69
+            },
+            "mentionedPlayers": {
+                "Donovan Mitchell": 24,
+                "Jarrett Allen": 9,
+                "Darius Garland": 6
+            },
+            "topTweet": {
+                "Tweet Id": "1728145307072958720",
+                "Twitter User": "dean \ud83e\udd82",
+                "Tweet Content": "His season is really over because the Cavs had a hole in their court covered up by a piece of paper\u2026 he should sue https://t.co/cvepXpeHhu",
+                "Like Count": 56791,
+                "Retweet Count": 4783,
+                "Replied Tweet": null,
+                "Quoted Tweet": "Dru Smith to miss rest of season with ACL sprain."
+            },
+            "id": 5
+        },
+        {
+            "teamName": "Dallas Mavericks",
+            "sentiments": {
+                "positive": 3,
+                "negative": 2,
+                "neutral": 287
+            },
+            "freqWords": {
+                "mavs": 396,
+                "luka": 93,
+                "win": 74,
+                "fans": 67,
+                "series": 66
+            },
+            "mentionedPlayers": {
+                "Luka Doncic": 24,
+                "Kyrie Irving": 13,
+                "Daniel Gafford": 3
+            },
+            "topTweet": {
+                "Tweet Id": "1801236546458091801",
+                "Twitter User": "baber",
+                "Tweet Content": "mavs 0-3 since they took away luka\u2019s beer https://t.co/Zap3CRRfHZ",
+                "Like Count": 76330,
+                "Retweet Count": 4642,
+                "Replied Tweet": null,
+                "Quoted Tweet": null
+            },
+            "id": 6
+        },
+        {
+            "teamName": "Denver Nuggets",
+            "sentiments": {
+                "positive": 29,
+                "negative": 27,
+                "neutral": 516
+            },
+            "freqWords": {
+                "timberwolves": 171,
+                "minnesota": 130,
+                "lakers": 90,
+                "series": 60,
+                "jokic": 57
+            },
+            "mentionedPlayers": {
+                "Jamal Murray": 27,
+                "Nikola Jokic": 23,
+                "Christian Braun": 5
+            },
+            "topTweet": {
+                "Tweet Id": "1743142898072195393",
+                "Twitter User": "Denver Nuggets",
+                "Tweet Content": "HE IS HIM. GAME WINNER. https://t.co/YeuYZVTMRv",
+                "Like Count": 41793,
+                "Retweet Count": 7578,
+                "Replied Tweet": null,
+                "Quoted Tweet": null
+            },
+            "id": 7
+        },
+        {
+            "teamName": "Detroit Pistons",
+            "sentiments": {
+                "positive": 9,
+                "negative": 12,
+                "neutral": 419
+            },
+            "freqWords": {
+                "basketball": 48,
+                "isiahthomas": 43,
+                "pick": 42,
+                "season": 39,
+                "time": 39
+            },
+            "mentionedPlayers": {
+                "Cade Cunningham": 12,
+                "Tobias Harris": 5,
+                "Jaden Ivey": 5
+            },
+            "topTweet": {
+                "Tweet Id": "1740571915587342762",
+                "Twitter User": "Detroit Pistons",
+                "Tweet Content": "Final https://t.co/As62Nj9G0e",
+                "Like Count": 39772,
+                "Retweet Count": 1188,
+                "Replied Tweet": null,
+                "Quoted Tweet": null
+            },
+            "id": 8
+        },
+        {
+            "teamName": "Golden State Warriors",
+            "sentiments": {
+                "positive": 23,
+                "negative": 8,
+                "neutral": 473
+            },
+            "freqWords": {
+                "curry": 61,
+                "first": 46,
+                "ebay": 42,
+                "lakers": 36,
+                "stephen": 34
+            },
+            "mentionedPlayers": {
+                "Stephen Curry": 26,
+                "Draymond Green": 11,
+                "Andrew Wiggins": 5
+            },
+            "topTweet": {
+                "Tweet Id": "1711053895332466872",
+                "Twitter User": "NBACentral",
+                "Tweet Content": "Klay, CP3, and the Golden State Warriors compete against inmates in a basketball match \n\n https://t.co/1bGv9SQVAO",
+                "Like Count": 50100,
+                "Retweet Count": 4566,
+                "Replied Tweet": null,
+                "Quoted Tweet": null
+            },
+            "id": 9
+        },
+        {
+            "teamName": "Houston Rockets",
+            "sentiments": {
+                "positive": 16,
+                "negative": 10,
+                "neutral": 312
+            },
+            "freqWords": {
+                "draft": 56,
+                "season": 48,
+                "pick": 48,
+                "trade": 39,
+                "back": 38
+            },
+            "mentionedPlayers": {
+                "Jalen Green": 13,
+                "Alperen Sengun": 7,
+                "Amen Thompson": 6
+            },
+            "topTweet": {
+                "Tweet Id": "1608955217969811456",
+                "Twitter User": "Daily Loud",
+                "Tweet Content": "In 2015, Christian Woods did not get drafted to the NBA on draft day. That same day his girlfriend dumped him and was never seen again. Years later he signs a $53 Million dollar deal with the Houston Rockets. Moral of the story keep pushing forward king \ud83d\ude4f\ud83d\udc51 https://t.co/hjJMXabIGH",
+                "Like Count": 41381,
+                "Retweet Count": 3169,
+                "Replied Tweet": null,
+                "Quoted Tweet": null
+            },
+            "id": 10
+        },
+        {
+            "teamName": "Indiana Pacers",
+            "sentiments": {
+                "positive": 34,
+                "negative": 40,
+                "neutral": 541
+            },
+            "freqWords": {
+                "knicks": 173,
+                "1": 65,
+                "bucks": 63,
+                "series": 62,
+                "win": 58
+            },
+            "mentionedPlayers": {
+                "Tyrese Haliburton": 13,
+                "Myles Turner": 10,
+                "Pascal Siakam": 9
+            },
+            "topTweet": {
+                "Tweet Id": "1798419515728183330",
+                "Twitter User": "Historic Vids",
+                "Tweet Content": "The biggest NBA brawl in history. Players received 86, 30 and 25 game suspensions. They were also fined a combined total of $11.2 million https://t.co/dbK6xnncoG",
+                "Like Count": 103401,
+                "Retweet Count": 9651,
+                "Replied Tweet": null,
+                "Quoted Tweet": null
+            },
+            "id": 11
+        },
+        {
+            "teamName": "Los Angeles Clippers",
+            "sentiments": {
+                "positive": 38,
+                "negative": 33,
+                "neutral": 516
+            },
+            "freqWords": {
+                "kawhi": 50,
+                "series": 46,
+                "first": 46,
+                "lakers": 41,
+                "year": 41
+            },
+            "mentionedPlayers": {
+                "James Harden": 11,
+                "Kawhi Leonard": 8,
+                "Terance Mann": 2
+            },
+            "topTweet": {
+                "Tweet Id": "1786613300073230810",
+                "Twitter User": "Sam Yeezy",
+                "Tweet Content": "Clippers seeing the TL distracted with Kendrick vs Drake https://t.co/Qi7IVqt1VQ",
+                "Like Count": 75229,
+                "Retweet Count": 10771,
+                "Replied Tweet": null,
+                "Quoted Tweet": null
+            },
+            "id": 12
+        },
+        {
+            "teamName": "Los Angeles Lakers",
+            "sentiments": {
+                "positive": 32,
+                "negative": 79,
+                "neutral": 465
+            },
+            "freqWords": {
+                "lebron": 86,
+                "win": 57,
+                "coach": 54,
+                "nuggets": 54,
+                "want": 46
+            },
+            "mentionedPlayers": {
+                "LeBron James": 16,
+                "Bronny James": 7,
+                "Austin Reaves": 7
+            },
+            "topTweet": {
+                "Tweet Id": "1798101369427198367",
+                "Twitter User": "Legion Hoops",
+                "Tweet Content": "BREAKING: The Lakers are finalizing the hire of JJ Redick as their next head coach\n\nWOW. https://t.co/WgMxZOiYGK",
+                "Like Count": 49645,
+                "Retweet Count": 3752,
+                "Replied Tweet": null,
+                "Quoted Tweet": null
+            },
+            "id": 13
+        },
+        {
+            "teamName": "Memphis Grizzlies",
+            "sentiments": {
+                "positive": 4,
+                "negative": 4,
+                "neutral": 554
+            },
+            "freqWords": {
+                "ja": 77,
+                "morant": 68,
+                "draft": 51,
+                "season": 49,
+                "pick": 46
+            },
+            "mentionedPlayers": {
+                "Ja Morant": 57,
+                "Zach Edey": 12,
+                "Desmond Bane": 6
+            },
+            "topTweet": {
+                "Tweet Id": "1788758858602520757",
+                "Twitter User": "Thomas Carrieri",
+                "Tweet Content": "\u201cYou WILL NOT let your favorite professional sports teams control your mental health.\u201d https://t.co/3B753C8jqM",
+                "Like Count": 85595,
+                "Retweet Count": 10815,
+                "Replied Tweet": null,
+                "Quoted Tweet": null
+            },
+            "id": 14
+        },
+        {
+            "teamName": "Miami Heat",
+            "sentiments": {
+                "positive": 25,
+                "negative": 25,
+                "neutral": 448
+            },
+            "freqWords": {
+                "wheelerjaylen": 105,
+                "jimmy": 96,
+                "butler": 68,
+                "celtics": 60,
+                "boston": 44
+            },
+            "mentionedPlayers": {
+                "Jimmy Butler": 46,
+                "Bam Adebayo": 6,
+                "Duncan Robinson": 6
+            },
+            "topTweet": {
+                "Tweet Id": "1783308717137473556",
+                "Twitter User": "A \u2729",
+                "Tweet Content": "Erik Spoelstra could take a roster filled with niggas from the tl and win you a playoff game",
+                "Like Count": 50954,
+                "Retweet Count": 6284,
+                "Replied Tweet": null,
+                "Quoted Tweet": null
+            },
+            "id": 15
+        },
+        {
+            "teamName": "Milwaukee Bucks",
+            "sentiments": {
+                "positive": 7,
+                "negative": 17,
+                "neutral": 614
+            },
+            "freqWords": {
+                "giannis": 95,
+                "pacers": 80,
+                "indiana": 53,
+                "win": 45,
+                "series": 44
+            },
+            "mentionedPlayers": {
+                "Giannis Antetokounmpo": 35,
+                "Damian Lillard": 20,
+                "Patrick Beverley": 14
+            },
+            "topTweet": {
+                "Tweet Id": "1718780761870864629",
+                "Twitter User": "philip lewis",
+                "Tweet Content": "Flavor Flav sings the National Anthem at the Milwaukee Bucks game: https://t.co/zsiE4LszFU",
+                "Like Count": 52914,
+                "Retweet Count": 8217,
+                "Replied Tweet": null,
+                "Quoted Tweet": null
+            },
+            "id": 16
+        },
+        {
+            "teamName": "Minnesota Timberwolves",
+            "sentiments": {
+                "positive": 3,
+                "negative": 5,
+                "neutral": 587
+            },
+            "freqWords": {
+                "nuggets": 201,
+                "denver": 190,
+                "dallas": 80,
+                "playoffs": 70,
+                "mavericks": 68
+            },
+            "mentionedPlayers": {
+                "Anthony Edwards": 65,
+                "Rudy Gobert": 15,
+                "Mike Conley": 12
+            },
+            "topTweet": {
+                "Tweet Id": "1784815535647039969",
+                "Twitter User": "Minnesota Timberwolves",
+                "Tweet Content": "first time for everything.",
+                "Like Count": 125738,
+                "Retweet Count": 11598,
+                "Replied Tweet": null,
+                "Quoted Tweet": "Bradley Beal speaks on his mindset going into Game 4 \ud83d\udde3\ufe0f https://t.co/UJbkQcz2GV"
+            },
+            "id": 17
+        },
+        {
+            "teamName": "New Orleans Pelicans",
+            "sentiments": {
+                "positive": 7,
+                "negative": 5,
+                "neutral": 575
+            },
+            "freqWords": {
+                "ingram": 82,
+                "brandon": 70,
+                "day": 64,
+                "trade": 57,
+                "thunder": 53
+            },
+            "mentionedPlayers": {
+                "Brandon Ingram": 72,
+                "Zion Williamson": 30,
+                "CJ McCollum": 17
+            },
+            "topTweet": {
+                "Tweet Id": "1761120217025990943",
+                "Twitter User": "New Orleans Pelicans",
+                "Tweet Content": "flock it, Stephen A. Smith highlights. https://t.co/jWdaEBeTis",
+                "Like Count": 80457,
+                "Retweet Count": 12109,
+                "Replied Tweet": null,
+                "Quoted Tweet": null
+            },
+            "id": 18
+        },
+        {
+            "teamName": "New York Knicks",
+            "sentiments": {
+                "positive": 17,
+                "negative": 32,
+                "neutral": 652
+            },
+            "freqWords": {
+                "pacers": 88,
+                "fans": 80,
+                "go": 62,
+                "2": 56,
+                "series": 53
+            },
+            "mentionedPlayers": {
+                "Jalen Brunson": 29,
+                "Josh Hart": 21,
+                "OG Anunoby": 13
+            },
+            "topTweet": {
+                "Tweet Id": "1650351424012681219",
+                "Twitter User": "Daily Loud",
+                "Tweet Content": "Pete Davidson pushes a fan away at Knicks game https://t.co/OAig1D5d5a",
+                "Like Count": 38455,
+                "Retweet Count": 966,
+                "Replied Tweet": null,
+                "Quoted Tweet": null
+            },
+            "id": 19
+        },
+        {
+            "teamName": "Oklahoma City Thunder",
+            "sentiments": {
+                "positive": 6,
+                "negative": 4,
+                "neutral": 545
+            },
+            "freqWords": {
+                "dallas": 191,
+                "mavericks": 189,
+                "center": 60,
+                "series": 58,
+                "tickets": 56
+            },
+            "mentionedPlayers": {
+                "Shai Gilgeous-Alexander": 27,
+                "Chet Holmgren": 17,
+                "Jalen Williams": 9
+            },
+            "topTweet": {
+                "Tweet Id": "1755620447037632888",
+                "Twitter User": "Adrian Wojnarowski",
+                "Tweet Content": "The Oklahoma City Thunder are finalizing a trade to send G Tre Mann and F Davis Bertans to the Charlotte Hornets for Gordon Hayward, sources tell ESPN. https://t.co/8R72JA5SGR",
+                "Like Count": 27495,
+                "Retweet Count": 3552,
+                "Replied Tweet": null,
+                "Quoted Tweet": null
+            },
+            "id": 20
+        },
+        {
+            "teamName": "Orlando Magic",
+            "sentiments": {
+                "positive": 23,
+                "negative": 16,
+                "neutral": 370
+            },
+            "freqWords": {
+                "first": 51,
+                "cavaliers": 48,
+                "cleveland": 41,
+                "home": 40,
+                "series": 39
+            },
+            "mentionedPlayers": {
+                "Paolo Banchero": 12,
+                "Franz Wagner": 10,
+                "Jalen Suggs": 8
+            },
+            "topTweet": {
+                "Tweet Id": "1767023173843779996",
+                "Twitter User": "Ever Bless",
+                "Tweet Content": "I thought the Orlando Magic mascot was wildin",
+                "Like Count": 86888,
+                "Retweet Count": 10032,
+                "Replied Tweet": null,
+                "Quoted Tweet": "They told Smiley to get down immediately! \ud83d\ude2d https://t.co/8lv01Yoluy"
+            },
+            "id": 21
+        },
+        {
+            "teamName": "Philadelphia Sixers",
+            "sentiments": {
+                "positive": 25,
+                "negative": 30,
+                "neutral": 547
+            },
+            "freqWords": {
+                "fans": 113,
+                "knicks": 92,
+                "embiid": 57,
+                "series": 48,
+                "year": 42
+            },
+            "mentionedPlayers": {
+                "Joel Embiid": 20,
+                "Tyrese Maxey": 12,
+                "Paul George": 6
+            },
+            "topTweet": {
+                "Tweet Id": "1757242114625462424",
+                "Twitter User": "Bleacher Report",
+                "Tweet Content": "This young fan meeting Tyrese Maxey \ud83e\udd79\u2764\ufe0f\n\n(via @sixers) \n https://t.co/LAf35T6wxE",
+                "Like Count": 32451,
+                "Retweet Count": 1839,
+                "Replied Tweet": null,
+                "Quoted Tweet": null
+            },
+            "id": 22
+        },
+        {
+            "teamName": "Phoenix Suns",
+            "sentiments": {
+                "positive": 26,
+                "negative": 21,
+                "neutral": 532
+            },
+            "freqWords": {
+                "coach": 70,
+                "budenholzer": 44,
+                "season": 43,
+                "next": 41,
+                "lakers": 40
+            },
+            "mentionedPlayers": {
+                "Kevin Durant": 26,
+                "Devin Booker": 21,
+                "Bradley Beal": 13
+            },
+            "topTweet": {
+                "Tweet Id": "1784802117582037011",
+                "Twitter User": "SAY CHEESE! \ud83d\udc44\ud83e\uddc0",
+                "Tweet Content": "The Phoenix Suns have been swept \ud83e\uddf9 \n\n0 first round picks from 2025-2030\n0 second round picks from 2024-2030 https://t.co/BXG7kP7bMF",
+                "Like Count": 45349,
+                "Retweet Count": 3605,
+                "Replied Tweet": null,
+                "Quoted Tweet": null
+            },
+            "id": 23
+        },
+        {
+            "teamName": "Portland Trail Blazers",
+            "sentiments": {
+                "positive": 4,
+                "negative": 1,
+                "neutral": 438
+            },
+            "freqWords": {
+                "draft": 54,
+                "pick": 52,
+                "5": 41,
+                "win": 37,
+                "bill": 37
+            },
+            "mentionedPlayers": {
+                "Scoot Henderson": 14,
+                "Anfernee Simons": 12,
+                "Jerami Grant": 10
+            },
+            "topTweet": {
+                "Tweet Id": "1708511286596686032",
+                "Twitter User": "Adrian Wojnarowski",
+                "Tweet Content": "BREAKING: The Portland Trail Blazers are trading guard Jrue Holiday to the Boston Celtics, sources tell ESPN. https://t.co/rOx1Hpwcpk",
+                "Like Count": 98478,
+                "Retweet Count": 14078,
+                "Replied Tweet": null,
+                "Quoted Tweet": null
+            },
+            "id": 24
+        },
+        {
+            "teamName": "Sacramento Kings",
+            "sentiments": {
+                "positive": 11,
+                "negative": 17,
+                "neutral": 424
+            },
+            "freqWords": {
+                "season": 59,
+                "pick": 43,
+                "draft": 43,
+                "win": 36,
+                "brown": 35
+            },
+            "mentionedPlayers": {
+                "Malik Monk": 20,
+                "Domantas Sabonis": 3,
+                "Keegan Murray": 3
+            },
+            "topTweet": {
+                "Tweet Id": "1781535060740448746",
+                "Twitter User": "Bleacher Report",
+                "Tweet Content": "The Sacramento Kings have been eliminated from playoff contention https://t.co/0hfPsywntO",
+                "Like Count": 31229,
+                "Retweet Count": 1392,
+                "Replied Tweet": null,
+                "Quoted Tweet": null
+            },
+            "id": 25
+        },
+        {
+            "teamName": "San Antonio Spurs",
+            "sentiments": {
+                "positive": 14,
+                "negative": 5,
+                "neutral": 560
+            },
+            "freqWords": {
+                "porvida": 126,
+                "wembanyama": 112,
+                "gospursgo": 98,
+                "victor": 87,
+                "draft": 85
+            },
+            "mentionedPlayers": {
+                "Victor Wembanyama": 83,
+                "Stephon Castle": 11,
+                "Keldon Johnson": 9
+            },
+            "topTweet": {
+                "Tweet Id": "1743078101398036938",
+                "Twitter User": "San Antonio Spurs",
+                "Tweet Content": "DID HE JUST...\ud83d\ude33\ud83e\udd2f https://t.co/Tj8rWL0mtm",
+                "Like Count": 51656,
+                "Retweet Count": 6089,
+                "Replied Tweet": null,
+                "Quoted Tweet": null
+            },
+            "id": 26
+        },
+        {
+            "teamName": "Toronto Raptors",
+            "sentiments": {
+                "positive": 7,
+                "negative": 16,
+                "neutral": 538
+            },
+            "freqWords": {
+                "pick": 49,
+                "draft": 47,
+                "time": 43,
+                "2019": 42,
+                "basketball": 41
+            },
+            "mentionedPlayers": {
+                "Scottie Barnes": 12,
+                "Gradey Dick": 6,
+                "Bruce Brown": 6
+            },
+            "topTweet": {
+                "Tweet Id": "1776698730944626895",
+                "Twitter User": "Ballislife.com",
+                "Tweet Content": "The Toronto Raptors honoring Vince Carter\u2019s induction to the Basketball Hall Of Fame with this logo! https://t.co/1KmmSzvKSv",
+                "Like Count": 45942,
+                "Retweet Count": 5479,
+                "Replied Tweet": null,
+                "Quoted Tweet": null
+            },
+            "id": 27
+        },
+        {
+            "teamName": "Utah Jazz",
+            "sentiments": {
+                "positive": 9,
+                "negative": 14,
+                "neutral": 320
+            },
+            "freqWords": {
+                "draft": 40,
+                "first": 37,
+                "lakers": 35,
+                "season": 33,
+                "back": 32
+            },
+            "mentionedPlayers": {
+                "Lauri Markkanen": 9,
+                "Keyonte George": 6,
+                "Collin Sexton": 5
+            },
+            "topTweet": {
+                "Tweet Id": "1798391645773377868",
+                "Twitter User": "Bleacher Report",
+                "Tweet Content": "Utah reveals new uniforms \ud83d\udc40 @brkicks \n\nJAZZ 90'S MOUNTAIN JERSEYS ARE BACK \ud83d\udd25 https://t.co/XVLouKG2WK",
+                "Like Count": 68221,
+                "Retweet Count": 3209,
+                "Replied Tweet": null,
+                "Quoted Tweet": null
+            },
+            "id": 28
+        },
+        {
+            "teamName": "Washington Wizards",
+            "sentiments": {
+                "positive": 5,
+                "negative": 18,
+                "neutral": 547
+            },
+            "freqWords": {
+                "pick": 73,
+                "draft": 72,
+                "season": 51,
+                "2024": 42,
+                "1": 39
+            },
+            "mentionedPlayers": {
+                "Kyle Kuzma": 10,
+                "Corey Kispert": 7,
+                "Jordan Poole": 6
+            },
+            "topTweet": {
+                "Tweet Id": "1681872283437273088",
+                "Twitter User": "Oluwajomiloju",
+                "Tweet Content": "They\u2019re sending the Washington Wizards to battle, we are so finished \ud83d\ude14",
+                "Like Count": 50851,
+                "Retweet Count": 5059,
+                "Replied Tweet": null,
+                "Quoted Tweet": "Captain America, Shuri and Shang-Chi will be the leaders of the new team of the Avengers in #AvengersTheKangDynasty \n#MarvelStudios https://t.co/nYj81fFqdv"
+            },
+            "id": 29
+        }
+    ]
+}

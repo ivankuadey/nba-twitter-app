@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Sporting';
+    src: url('./SportingOutline-x3e85.ttf') format('truetype');
+  }
+
+#btn {
+border-color: black;
+border-width: 1px;
+background-color: rgb(29, 66, 138);
+}
+
+h1 {
+font-family: 'Sporting';
+}

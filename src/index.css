@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.review{
+  font-size: 20px;
+  padding: 10px 16px;
+  margin: auto;
+  border: 1px solid #fafafa;
+  max-width: 50%;
+}
+
+.review:hover{
+  box-shadow: 1px 3px 5px rgba(255, 0, 0, 0.1);
+}
+
+.review h2{
+  font-size: 30px;
+  font-weight: bold;
+  font-family: Arial;
+}
